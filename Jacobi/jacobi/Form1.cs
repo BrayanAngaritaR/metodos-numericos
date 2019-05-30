@@ -43,12 +43,12 @@ namespace jacobi
                     }
                 }
                 if (bCampoVacio)
-                    MessageBox.Show("Señor Usuario Hay Algún Campo Vacío!");
+                    MessageBox.Show("Encontramos un campo vacío, por favor verifica");
             }
 
             if (string.IsNullOrEmpty(textBoxX0.Text) && string.IsNullOrEmpty(textBoxY0.Text) && string.IsNullOrEmpty(textBoxZ0.Text) && string.IsNullOrEmpty(textBoxT0.Text) && string.IsNullOrEmpty(textBoxU0.Text) && string.IsNullOrEmpty(textBoxEpsilon.Text))
             {
-                MessageBox.Show("Señor Usuario Por Favor Ingrese Un Valor Correcto");
+                MessageBox.Show("Señor usuario, el valor ingresado no es el que solicitamos");
                 foreach (Control ctrl in this.Controls)
                 {
                     if (ctrl is TextBox)
@@ -225,7 +225,7 @@ namespace jacobi
                     DateTime tiempo2 = DateTime.Now;
                     TimeSpan total = new TimeSpan(tiempo2.Millisecond + tiempo1.Millisecond);
 
-                    MessageBox.Show("La Solución Es X: " + x1 + " Y :  " + y1 + " Z :  " + z1 + " T :  " + t1 + " U :  " + u1 + " , Con Un Numero De " + contador + " , Iteraciones En Un Tiempo De " + total.ToString() + ", Con Un Error Del " + errorObtenido);
+                    MessageBox.Show("La solución es: \n \n X = " + x1 + "\n" + " Y =  " + y1 + "\n Z =  " + z1 + "\n T =  " + t1 + "\n U =  " + u1 + "\n \n El número de interacciones es de " + contador + ".\n \n El tiempo de ejecución fue de " + total.ToString() + ". \n \n El error obtenido es " + errorObtenido);
                     foreach (Control ctrl in this.Controls)
                     {
                         if (ctrl is TextBox)

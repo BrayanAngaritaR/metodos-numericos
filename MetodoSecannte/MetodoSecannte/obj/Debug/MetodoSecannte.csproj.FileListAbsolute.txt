@@ -18,3 +18,13 @@ C:\Users\Brayan Angarita\Documents\Visual Studio 2013\Projects\MetodoSecannte\Me
 C:\Users\Brayan Angarita\Documents\Visual Studio 2013\Projects\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.Form2.resources
 C:\Users\Brayan Angarita\Documents\Visual Studio 2013\Projects\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.Properties.Resources.resources
 C:\Users\Brayan Angarita\Documents\Visual Studio 2013\Projects\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.csproj.GenerateResource.Cache
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\bin\Debug\MetodoSecannte.exe.config
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.exe
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.pdb
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\bin\Debug\MetodoSecannte.exe
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\bin\Debug\MetodoSecannte.pdb
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.csprojResolveAssemblyReference.cache
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.Form1.resources
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.Form2.resources
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.Properties.Resources.resources
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\MetodoSecannte\MetodoSecannte\obj\Debug\MetodoSecannte.csproj.GenerateResource.Cache

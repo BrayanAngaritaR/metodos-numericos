@@ -21,3 +21,13 @@ C:\Users\laboratorio 404\Documents\Visual Studio 2013\jacobi\jacobi\obj\Debug\ja
 C:\Users\laboratorio 404\Documents\Visual Studio 2013\jacobi\jacobi\obj\Debug\jacobi.Menu.resources
 C:\Users\laboratorio 404\Documents\Visual Studio 2013\jacobi\jacobi\obj\Debug\jacobi.Properties.Resources.resources
 C:\Users\laboratorio 404\Documents\Visual Studio 2013\jacobi\jacobi\obj\Debug\jacobi.csproj.GenerateResource.Cache
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\bin\Debug\jacobi.exe.config
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\obj\Debug\jacobi.exe
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\obj\Debug\jacobi.pdb
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\bin\Debug\jacobi.exe
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\bin\Debug\jacobi.pdb
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\obj\Debug\jacobi.csprojResolveAssemblyReference.cache
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\obj\Debug\jacobi.Form1.resources
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\obj\Debug\jacobi.Menu.resources
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\obj\Debug\jacobi.Properties.Resources.resources
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\Jacobi\jacobi\obj\Debug\jacobi.csproj.GenerateResource.Cache

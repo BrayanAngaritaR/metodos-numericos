@@ -18,3 +18,6 @@ C:\Users\Juan Pablo\Documents\Visual Studio 2013\Projects\RegulaFalsi\WindowsFor
 C:\Users\Juan Pablo\Documents\Visual Studio 2013\Projects\RegulaFalsi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
 C:\Users\Juan Pablo\Documents\Visual Studio 2013\Projects\RegulaFalsi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
 C:\Users\Juan Pablo\Documents\Visual Studio 2013\Projects\RegulaFalsi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\RegulaFalsi\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\RegulaFalsi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\laboratorio 404\Documents\Visual Studio 2013\metodos-numericos\RegulaFalsi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
